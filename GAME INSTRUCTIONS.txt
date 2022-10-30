@@ -1,0 +1,2 @@
+Use snake.java to run the game file
+To move the snake use wasd keys or the arrow keys
